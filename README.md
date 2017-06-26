@@ -2,6 +2,7 @@
 A collection of reproductions of all the stock iOS 11 icons in Sketch.
 
 Current Progress:
+
 ![](https://github.com/nateansel/iOS-11-icons/blob/master/Icons.png)
 
 Feel free to use any of these icons in your own projects, mockups, or just as a fun reference!
