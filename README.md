@@ -23,7 +23,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [ ] Clips
 - [ ] News
 - [ ] Wallet
-- [ ] Mail
+- [x] Mail
 - [ ] Maps
 - [ ] Calendar
 - [ ] Photos
