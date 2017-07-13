@@ -22,7 +22,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [x] Calculator
 - [x] Clips
 - [x] News
-- [ ] Wallet
+- [x] Wallet
 - [x] Mail
 - [x] Maps
 - [ ] Calendar
