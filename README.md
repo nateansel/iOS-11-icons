@@ -39,7 +39,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [x] Phone
 - [ ] Messages
 - [ ] Music
-- [ ] Facetime
+- [x] Facetime
 - [ ] Podcasts
 - [ ] Watch
 - [ ] Compass
