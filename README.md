@@ -20,7 +20,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [ ] iTunes Store
 - [x] TV
 - [x] Calculator
-- [ ] Clips
+- [x] Clips
 - [x] News
 - [ ] Wallet
 - [x] Mail
