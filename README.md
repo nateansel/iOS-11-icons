@@ -57,4 +57,4 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [ ] Safari
 - [ ] Settings
 - [ ] Feedback
-- [ ] Workflow
+- [x] Workflow
