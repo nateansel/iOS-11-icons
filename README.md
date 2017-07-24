@@ -32,7 +32,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [ ] Camera
 - [ ] Clock
 - [ ] Weather
-- [ ] Notes
+- [x] Notes
 - [ ] Reminders
 - [ ] Stocks
 - [ ] iBooks
