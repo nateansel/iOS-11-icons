@@ -43,7 +43,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [ ] Podcasts
 - [ ] Watch
 - [ ] Compass
-- [ ] Tips
+- [x] Tips
 - [ ] Voice Memos
 - [x] Contacts
 - [ ] Find My Friends
