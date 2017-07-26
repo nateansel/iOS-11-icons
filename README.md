@@ -31,7 +31,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [ ] Clock
 - [ ] Weather
 - [x] Notes
-- [ ] Reminders
+- [x] Reminders
 - [ ] Stocks
 - [ ] iBooks
 - [x] Home
