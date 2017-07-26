@@ -11,8 +11,6 @@ I'm still very much a beginner in Sketch, so there may be a few small difference
 
 If you have any suggestions, create an issue, and if you have any fixes or tweaks, create a pull request.
 
-**NOTE:** Several icons changed in small ways in iOS 11 beta 4. Please bear with me while I update the already created icons to match the new styles.
-
 
 ## Icons completed
 This list is prioritized by the icons that have been changed majorly in iOS 11. 
