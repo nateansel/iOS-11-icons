@@ -27,7 +27,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [x] Maps
 - [ ] Calendar
 - [x] Photos
-- [ ] Camera
+- [x] Camera
 - [ ] Clock
 - [ ] Weather
 - [x] Notes
