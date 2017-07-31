@@ -44,7 +44,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [ ] Watch
 - [ ] Compass
 - [x] Tips
-- [ ] Voice Memos
+- [x] Voice Memos
 - [x] Contacts
 - [ ] Find My Friends
 - [ ] Find My iPhone
