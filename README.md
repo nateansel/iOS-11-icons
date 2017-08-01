@@ -25,7 +25,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [x] Wallet
 - [x] Mail
 - [x] Maps
-- [ ] Calendar
+- [x] Calendar
 - [x] Photos
 - [x] Camera
 - [ ] Clock
