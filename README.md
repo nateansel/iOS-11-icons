@@ -32,7 +32,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [x] Weather
 - [x] Notes
 - [x] Reminders
-- [ ] Stocks
+- [x] Stocks
 - [ ] iBooks
 - [x] Home
 - [ ] Health
