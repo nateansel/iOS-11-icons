@@ -35,7 +35,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [x] Stocks
 - [ ] iBooks
 - [x] Home
-- [ ] Health
+- [x] Health
 - [x] Phone
 - [ ] Messages
 - [ ] Music
