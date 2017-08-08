@@ -41,7 +41,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [ ] Music
 - [x] Facetime
 - [x] Podcasts
-- [ ] Watch
+- [x] Watch
 - [ ] Compass
 - [x] Tips
 - [x] Voice Memos
