@@ -37,10 +37,10 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [x] Home
 - [x] Health
 - [x] Phone
-- [ ] Messages
+- [x] Messages
 - [ ] Music
 - [x] Facetime
-- [ ] Podcasts
+- [x] Podcasts
 - [ ] Watch
 - [ ] Compass
 - [x] Tips
