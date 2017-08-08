@@ -33,7 +33,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [x] Notes
 - [x] Reminders
 - [x] Stocks
-- [ ] iBooks
+- [x] iBooks
 - [x] Home
 - [x] Health
 - [x] Phone
