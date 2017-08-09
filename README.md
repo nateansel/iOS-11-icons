@@ -47,7 +47,7 @@ This list is prioritized by the icons that have been changed majorly in iOS 11.
 - [x] Voice Memos
 - [x] Contacts
 - [x] Find My Friends
-- [ ] Find My iPhone
+- [x] Find My iPhone
 - [ ] Numbers
 - [ ] iTunes U
 - [ ] iMovie
